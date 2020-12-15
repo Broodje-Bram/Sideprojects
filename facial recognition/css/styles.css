@@ -7,7 +7,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #121212;
 }
 canvas {
   position: absolute;
+  border: 1px solid white;
 }
