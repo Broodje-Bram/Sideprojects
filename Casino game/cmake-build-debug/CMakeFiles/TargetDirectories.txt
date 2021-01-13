@@ -1,0 +1,3 @@
+C:/Users/Bramg/CLionProjects/Casino game/cmake-build-debug/CMakeFiles/Ai.dir
+C:/Users/Bramg/CLionProjects/Casino game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bramg/CLionProjects/Casino game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
